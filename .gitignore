@@ -1,1 +1,14 @@
-.idea
+# Node + pnpm
+node_modules/
+dist/
+pnpm-debug.log
+.env
+.env.local
+.env.*.local
+
+# IDEs and OS junk
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.lock
